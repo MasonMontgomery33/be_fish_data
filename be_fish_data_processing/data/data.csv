@@ -1,0 +1,276 @@
+Rarity	Level	Growth	Speed	Adj. Speed	Odds	XP	Loot Effeciency	Concatination
+Common	Normal	1	1	1	5	1	1	Normal Goldfish
+Common	Gold	28.5	28.5	1.104	250	2.8	3.09	Gold Goldfish
+Common	Rainbow	56	56	1.219	13000	4.75	5.79	Rainbow Goldfish
+Common	Glowing	83.5	83.5	1.346	630000	6.8	9.15	Glowing Goldfish
+Common	Shadow	111	111	1.486	31000000	8.9	13.22	Shadow Goldfish
+Common	Normal	2	4.5	1.013	6	1.05	1.06	Normal Sardine
+Common	Gold	18.92	42.58	1.161	300	2.9	3.37	Gold Sardine
+Common	Rainbow	35.85	80.65	1.332	15000	4.85	6.46	Rainbow Sardine
+Common	Glowing	52.77	118.73	1.528	750000	6.9	10.54	Glowing Sardine
+Common	Shadow	69.69	156.81	1.752	38000000	9	15.77	Shadow Sardine
+Common	Normal	4.5	7	1.022	7	1.15	1.18	Normal Tetra
+Common	Gold	26.02	40.48	1.153	350	3	3.46	Gold Tetra
+Common	Rainbow	47.54	73.96	1.3	18000	4.95	6.44	Rainbow Tetra
+Common	Glowing	69.07	107.43	1.467	880000	7	10.27	Glowing Tetra
+Common	Shadow	90.59	140.91	1.655	44000000	9.1	15.06	Shadow Tetra
+Common	Normal	7	9	1.029	9	1.25	1.29	Normal Herring
+Common	Gold	31.06	39.94	1.15	450	3.1	3.57	Gold Herring
+Common	Rainbow	55.13	70.88	1.286	23000	5.05	6.49	Rainbow Herring
+Common	Glowing	79.19	101.81	1.438	1100000	7.1	10.21	Glowing Herring
+Common	Shadow	103.25	132.75	1.607	56000000	9.2	14.78	Shadow Herring
+Common	Normal	9.5	11.5	1.039	11	1.35	1.4	Normal Angelfish
+Common	Gold	34.38	41.62	1.157	550	3.15	3.65	Gold Angelfish
+Common	Rainbow	59.26	71.74	1.29	28000	5.15	6.64	Rainbow Angelfish
+Common	Glowing	84.14	101.86	1.438	1400000	7.2	10.35	Glowing Angelfish
+Common	Shadow	109.02	131.98	1.602	69000000	9.3	14.9	Shadow Angelfish
+Common	Normal	12.5	13	1.044	13	1.4	1.46	Normal Tilapia
+Common	Gold	39.46	41.04	1.155	650	3.25	3.751	Gold Tilapia
+Common	Rainbow	66.42	69.08	1.278	33000	5.25	6.71	Rainbow Tilapia
+Common	Glowing	93.38	97.12	1.413	1600000	7.3	10.32	Glowing Tilapia
+Common	Shadow	120.34	125.16	1.564	81000000	9.4	14.7	Shadow Tilapia
+Common	Normal	19	11.5	1.039	15	1.45	1.51	Normal Carp
+Common	Gold	53.26	32.24	1.119	750	3.35	3.75	Gold Carp
+Common	Rainbow	87.52	52.98	1.206	38000	5.35	6.45	Rainbow Carp
+Common	Glowing	121.79	73.71	1.299	1900000	7.4	9.61	Glowing Carp
+Common	Shadow	156.05	94.45	1.4	94000000	9.5	13.3	Shadow Carp
+Common	Normal	6.5	28.5	1.104	19	1.6	1.77	Normal Sheepshead
+Common	Gold	16.71	73.29	1.297	950	3.45	4.48	Gold Sheepshead
+Common	Rainbow	26.93	118.07	1.524	48000	5.4	8.23	Rainbow Sheepshead
+Common	Glowing	37.14	162.86	1.791	2400000	7.5	13.43	Glowing Sheepshead
+Common	Shadow	47.36	207.64	2.104	120000000	9.6	20.2	Shadow Sheepshead
+Uncommon	Normal	36	1.5	1.002	53	2.05	2.05	Normal Starfish
+Uncommon	Gold	101.28	4.22	1.012	2700	3.95	4	Gold Starfish
+Uncommon	Rainbow	166.56	6.94	1.022	130000	5.95	6.08	Rainbow Starfish
+Uncommon	Glowing	231.84	9.66	1.032	6600000	8.05	8.3	Glowing Starfish
+Uncommon	Shadow	297.12	12.38	1.042	330000000	10.2	10.63	Shadow Starfish
+Uncommon	Normal	3.5	35.5	1.132	64	2.15	2.43	Normal Seahorse
+Uncommon	Gold	9.6	97.4	1.415	3200	4.05	5.73	Gold Seahorse
+Uncommon	Rainbow	15.71	159.29	1.768	160000	6.05	10.7	Rainbow Seahorse
+Uncommon	Glowing	21.81	221.19	2.209	8000000	8.15	18.01	Glowing Seahorse
+Uncommon	Shadow	27.91	283.09	2.761	400000000	10.3	28.44	Shadow Seahorse
+Uncommon	Normal	5.5	35.5	1.132	77	2.25	2.55	Normal Guppy
+Uncommon	Gold	14.62	94.38	1.4	3900	4.15	5.81	Gold Guppy
+Uncommon	Rainbow	23.74	153.26	1.73	190000	6.15	10.64	Rainbow Guppy
+Uncommon	Glowing	32.87	212.13	2.138	9600000	8.25	17.64	Glowing Guppy
+Uncommon	Shadow	41.99	271.01	2.643	480000000	10.4	27.49	Shadow Guppy
+Uncommon	Normal	11.5	31	1.114	92	2.3	2.56	Normal Tiger Barb
+Uncommon	Gold	29.9	80.6	1.332	4600	4.25	5.66	Gold Tiger Barb
+Uncommon	Rainbow	48.3	130.2	1.592	230000	6.25	9.95	Rainbow Tiger Barb
+Uncommon	Glowing	66.7	179.8	1.903	12000000	8.35	15.89	Glowing Tiger Barb
+Uncommon	Shadow	85.1	229.4	2.276	580000000	10.5	23.89	Shadow Tiger Barb
+Uncommon	Normal	18.5	25.5	1.092	110	2.4	2.62	Normal Bluegill
+Uncommon	Gold	47.09	64.91	1.259	5600	4.35	5.48	Gold Bluegill
+Uncommon	Rainbow	75.68	104.32	1.451	280000	6.35	9.21	Rainbow Bluegill
+Uncommon	Glowing	104.27	143.73	1.672	14000000	8.45	14.13	Glowing Bluegill
+Uncommon	Shadow	132.86	183.14	1.926	690000000	10.6	20.42	Shadow Bluegill
+Uncommon	Normal	14	32.5	1.12	130	2.5	2.8	Normal Clownfish
+Uncommon	Gold	34.47	80.03	1.329	6600	4.4	5.85	Gold Clownfish
+Uncommon	Rainbow	54.95	127.55	1.577	330000	6.45	10.17	Rainbow Clownfish
+Uncommon	Glowing	75.42	175.08	1.871	17000000	8.55	16	Glowing Clownfish
+Uncommon	Shadow	95.89	222.61	2.221	830000000	10.7	23.76	Shadow Clownfish
+Uncommon	Normal	34	13.5	1.046	160	2.6	2.72	Normal Parrotfish
+Uncommon	Gold	82.67	32.83	1.121	8000	4.5	5.05	Gold Parrotfish
+Uncommon	Rainbow	131.35	52.15	1.202	400000	6.55	7.87	Rainbow Parrotfish
+Uncommon	Glowing	180.02	71.48	1.289	20000000	8.65	11.15	Glowing Parrotfish
+Uncommon	Shadow	228.69	90.81	1.382	990000000	10.8	14.92	Shadow Parrotfish
+Uncommon	Normal	16	31.5	1.116	190	2.65	2.96	Normal Moorish Idol
+Uncommon	Gold	38.91	76.59	1.313	9600	4.6	6.04	Gold Moorish Idol
+Uncommon	Rainbow	61.81	121.69	1.544	480000	6.65	10.271	Rainbow Moorish Idol
+Uncommon	Glowing	84.72	166.78	1.816	24000000	8.75	15.891	Glowing Moorish Idol
+Uncommon	Shadow	107.62	211.88	2.136	1200000000	10.9	23.29	Shadow Moorish Idol
+Uncommon	Normal	29.5	20.5	1.073	230	2.75	2.95	Normal Cichlid
+Uncommon	Gold	69.62	48.38	1.186	11000	4.7	5.57	Gold Cichlid
+Uncommon	Rainbow	109.74	76.26	1.311	570000	6.75	8.85	Rainbow Cichlid
+Uncommon	Glowing	149.86	104.14	1.45	29000000	8.85	12.83	Glowing Cichlid
+Uncommon	Shadow	189.98	132.02	1.603	1400000000	11	17.63	Shadow Cichlid
+Uncommon	Normal	12.5	40	1.151	280	2.85	3.28	Normal Mackerel
+Uncommon	Gold	28.69	91.81	1.387	14000	4.8	6.66	Gold Mackerel
+Uncommon	Rainbow	44.88	143.62	1.671	690000	6.85	11.45	Rainbow Mackerel
+Uncommon	Glowing	61.07	195.43	2.014	34000000	8.95	18.02	Glowing Mackerel
+Uncommon	Shadow	77.26	247.24	2.427	1700000000	11.1	26.93	Shadow Mackerel
+Uncommon	Normal	36	19	1.067	330	2.95	3.15	Normal Triggerfish
+Uncommon	Gold	80.51	42.49	1.161	17000	4.9	5.69	Gold Triggerfish
+Uncommon	Rainbow	125.02	65.98	1.264	830000	6.95	8.78	Rainbow Triggerfish
+Uncommon	Glowing	169.53	89.47	1.375	41000000	9.05	12.44	Glowing Triggerfish
+Uncommon	Shadow	214.04	112.96	1.496	2100000000	11.2	16.76	Shadow Triggerfish
+Uncommon	Normal	46	10	1.033	400	3	3.1	Normal Trout
+Uncommon	Gold	101.86	22.14	1.079	20000	5	5.4	Gold Trout
+Uncommon	Rainbow	157.71	34.29	1.127	990000	7.05	7.95	Rainbow Trout
+Uncommon	Glowing	213.57	46.43	1.178	50000000	9.15	10.78	Glowing Trout
+Uncommon	Shadow	269.43	58.57	1.23	2500000000	11.3	13.9	Shadow Trout
+Rare	Normal	31	27	1.098	560	3.2	3.51	Normal Piranha
+Rare	Gold	74.29	64.71	1.258	28000	5.15	6.48	Gold Piranha
+Rare	Rainbow	117.59	102.41	1.441	1400000	7.2	10.37	Rainbow Piranha
+Rare	Glowing	160.88	140.12	1.65	70000000	9.35	15.43	Glowing Piranha
+Rare	Shadow	204.17	177.83	1.89	3500000000	11.5	21.74	Shadow Piranha
+Rare	Normal	54	6	1.018	670	3.3	3.36	Normal Pufferfish
+Rare	Gold	126.9	14.1	1.048	34000	5.25	5.5	Gold Pufferfish
+Rare	Rainbow	199.8	22.2	1.079	1700000	7.3	7.88	Rainbow Pufferfish
+Rare	Glowing	272.7	30.3	1.111	84000000	9.45	10.5	Glowing Pufferfish
+Rare	Shadow	345.6	38.4	1.144	4200000000	11.6	13.27	Shadow Pufferfish
+Rare	Normal	29	33	1.122	810	3.35	3.76	Normal Jellyfish
+Rare	Gold	66.89	76.11	1.31	40000	5.35	7.01	Gold Jellyfish
+Rare	Rainbow	104.77	119.23	1.531	2000000	7.4	11.33	Rainbow Jellyfish
+Rare	Glowing	142.66	162.34	1.788	100000000	9.5	16.98	Glowing Jellyfish
+Rare	Shadow	180.55	205.45	2.088	5100000000	11.7	24.43	Shadow Jellyfish
+Rare	Normal	20.5	43.5	1.165	970	3.45	4.02	Normal Oscar
+Rare	Gold	46.45	98.55	1.421	49000	5.45	7.74	Gold Oscar
+Rare	Rainbow	72.39	153.61	1.732	2399999	7.5	12.99	Rainbow Oscar
+Rare	Glowing	98.34	208.66	2.112	120000000	9.6	20.27	Glowing Oscar
+Rare	Shadow	124.28	263.72	2.575	6100000000	11.8	30.38	Shadow Oscar
+Rare	Normal	13.5	52.5	1.204	1200	3.55	4.27	Normal Fairy Wrasse
+Rare	Gold	30.07	116.93	1.518	58000	5.55	8.42	Gold Fairy Wrasse
+Rare	Rainbow	46.64	181.36	1.914	2900000	7.6	14.55	Rainbow Fairy Wrasse
+Rare	Glowing	63.2	245.8	2.414	150000000	9.7	23.42	Glowing Fairy Wrasse
+Rare	Shadow	79.77	310.23	3.044	7300000000	11.9	36.23	Shadow Fairy Wrasse
+Rare	Normal	51	16.5	1.057	1400	3.65	3.86	Normal Catfish
+Rare	Gold	112.2	36.3	1.136	70000	5.65	6.42	Gold Catfish
+Rare	Rainbow	173.4	56.1	1.219	3500000	7.7	9.39	Rainbow Catfish
+Rare	Glowing	234.6	75.9	1.309	170000000	9.8	12.831	Glowing Catfish
+Rare	Shadow	295.8	95.7	1.406	8700000000	12	16.87	Shadow Catfish
+Rare	Normal	35	35	1.13	1700	3.75	4.24	Normal Butterflyfish
+Rare	Gold	75.5	75.5	1.308	84000	5.75	7.52	Gold Butterflyfish
+Rare	Rainbow	116	116	1.513	4200000	7.8	11.8	Rainbow Butterflyfish
+Rare	Glowing	156.5	156.5	1.75	210000000	9.9	17.33	Glowing Butterflyfish
+Rare	Shadow	197	197	2.025	10000000000	12.1	24.5	Shadow Butterflyfish
+Rare	Normal	57	15	1.052	2000	3.8	4.01	Normal Cod
+Rare	Gold	121.13	31.88	1.118	100000	5.85	6.54	Gold Cod
+Rare	Rainbow	185.25	48.75	1.188	5000000	7.9	9.38	Rainbow Cod
+Rare	Glowing	249.38	65.63	1.262	250000000	10	12.62	Glowing Cod
+Rare	Shadow	313.5	82.5	1.341	13000000000	12.2	16.36	Shadow Cod
+Rare	Normal	18.5	55	1.215	2400	3.9	4.74	Normal Blue Tang
+Rare	Gold	38.89	115.61	1.511	120000	5.9	8.91	Gold Blue Tang
+Rare	Rainbow	59.28	176.22	1.879	6000000	8	15.03	Rainbow Blue Tang
+Rare	Glowing	79.66	236.84	2.337	300000000	10.1	23.61	Glowing Blue Tang
+Rare	Shadow	100.05	297.45	2.907	15000000000	12.3	35.76	Shadow Blue Tang
+Rare	Normal	63	12	1.04	2900	4	4.16	Normal Flounder
+Rare	Gold	131.04	24.96	1.09	140000	6	6.541	Gold Flounder
+Rare	Rainbow	199.08	37.92	1.142	7200000	8.1	9.25	Rainbow Flounder
+Rare	Glowing	267.12	50.88	1.197	360000000	10.2	12.21	Glowing Flounder
+Rare	Shadow	335.16	63.84	1.254	18000000000	12.4	15.55	Shadow Flounder
+Rare	Normal	60	18.5	1.065	3500	4.1	4.37	Normal Red Snapper
+Rare	Gold	121.91	37.59	1.141	170000	6.1	6.96	Gold Red Snapper
+Rare	Rainbow	183.82	56.68	1.222	8700000	8.2	10.02	Rainbow Red Snapper
+Rare	Glowing	245.73	75.77	1.309	440000000	10.3	13.48	Glowing Red Snapper
+Rare	Shadow	307.64	94.86	1.402	22000000000	12.5	17.52	Shadow Red Snapper
+Rare	Normal	40	40	1.151	4200	4.2	4.83	Normal Salmon
+Rare	Gold	80.5	80.5	1.331	210000	6.2	8.25	Gold Salmon
+Rare	Rainbow	121	121	1.54	10000000	8.3	12.78	Rainbow Salmon
+Rare	Glowing	161.5	161.5	1.782	520000000	10.4	18.53	Glowing Salmon
+Rare	Shadow	202	202	2.062	26000000000	12.6	25.98	Shadow Salmon
+Rare	Normal	74	11	1.037	5000	4.3	4.46	Normal Grouper
+Rare	Gold	144.52	21.48	1.077	250000	6.3	6.78	Gold Grouper
+Rare	Rainbow	215.04	31.96	1.118	13000000	8.4	9.391	Rainbow Grouper
+Rare	Glowing	285.55	42.45	1.161	630000000	10.5	12.19	Glowing Grouper
+Rare	Shadow	356.07	52.93	1.206	31000000000	12.7	15.31	Shadow Grouper
+Rare	Normal	16.5	68.5	1.275	6000	4.35	5.55	Normal Stingray
+Rare	Gold	32.22	133.78	1.613	300000	6.4	10.321	Gold Stingray
+Rare	Rainbow	47.95	199.05	2.04	15000000	8.5	17.34	Rainbow Stingray
+Rare	Glowing	63.67	264.33	2.581	750000000	10.6	27.35	Glowing Stingray
+Rare	Shadow	79.39	329.61	3.264	38000000000	12.8	41.78	Shadow Stingray
+Rare	Normal	68.5	19	1.067	7200	4.45	4.75	Normal Trevally
+Rare	Gold	131.91	36.59	1.137	360000	6.5	7.39	Gold Trevally
+Rare	Rainbow	195.32	54.18	1.211	18000000	8.6	10.41	Rainbow Trevally
+Rare	Glowing	258.73	71.77	1.29	900000000	10.7	13.8	Glowing Trevally
+Rare	Shadow	322.15	89.35	1.374	45000000000	12.9	17.73	Shadow Trevally
+Epic	Normal	10.5	77	1.315	8400	4.55	5.98	Normal Betta Fish
+Epic	Gold	21.78	159.72	1.771	420000	6.55	11.6	Gold Betta Fish
+Epic	Rainbow	33.06	242.44	2.385	21000000	8.65	20.63	Rainbow Betta Fish
+Epic	Glowing	44.34	325.16	3.212	1000000000	10.8	34.69	Glowing Betta Fish
+Epic	Shadow	55.62	407.88	4.327	52000000000	13	56.25	Shadow Betta Fish
+Epic	Normal	13	78	1.319	11000	4.7	6.2	Normal Zebra Angelfish
+Epic	Gold	26.43	158.57	1.763	540000	6.7	11.81	Gold Zebra Angelfish
+Epic	Rainbow	39.86	239.14	2.357	27000000	8.8	20.74	Rainbow Zebra Angelfish
+Epic	Glowing	53.29	319.71	3.15	1400000000	11	34.65	Glowing Zebra Angelfish
+Epic	Shadow	66.71	400.29	4.21	68000000000	13.1	55.15	Shadow Zebra Angelfish
+Epic	Normal	92	3	1.007	14000	4.8	4.83	Normal Sunfish
+Epic	Gold	183.03	5.97	1.018	710000	6.85	6.97	Gold Sunfish
+Epic	Rainbow	274.06	8.94	1.029	35000000	8.95	9.211	Rainbow Sunfish
+Epic	Glowing	365.09	11.91	1.04	1800000000	11.1	11.54	Glowing Sunfish
+Epic	Shadow	456.13	14.87	1.051	89000000000	13.3	13.98	Shadow Sunfish
+Epic	Normal	46.5	51	1.197	18000	4.95	5.93	Normal Bass
+Epic	Gold	91.33	100.17	1.429	920000	7	10	Gold Bass
+Epic	Rainbow	136.16	149.34	1.706	46000000	9.1	15.52	Rainbow Bass
+Epic	Glowing	180.99	198.51	2.036	2300000000	11.2	22.8	Glowing Bass
+Epic	Shadow	225.82	247.68	2.43	120000000000	13.4	32.57	Shadow Bass
+Epic	Normal	58	44.5	1.17	24000	5.1	5.96	Normal Arowana
+Epic	Gold	111.19	85.31	1.355	1200000	7.15	9.69	Gold Arowana
+Epic	Rainbow	164.38	126.12	1.569	60000000	9.25	14.51	Rainbow Arowana
+Epic	Glowing	217.57	166.93	1.817	3000000000	11.4	20.72	Glowing Arowana
+Epic	Shadow	270.76	207.74	2.105	150000000000	13.6	28.63	Shadow Arowana
+Epic	Normal	69	36	1.134	31000	5.2	5.9	Normal Pike
+Epic	Gold	130.77	68.23	1.274	1600000	7.25	9.24	Gold Pike
+Epic	Rainbow	192.54	100.46	1.431	78000000	9.4	13.45	Rainbow Pike
+Epic	Glowing	254.31	132.69	1.607	3900000000	11.5	18.48	Glowing Pike
+Epic	Shadow	316.09	164.91	1.804	190000000000	13.7	24.72	Shadow Pike
+Epic	Normal	38.5	71.5	1.289	40000	5.35	6.9	Normal Barracuda
+Epic	Gold	71.4	132.6	1.606	2000000	7.4	11.88	Gold Barracuda
+Epic	Rainbow	104.3	193.7	2.001	100000000	9.55	19.11	Rainbow Barracuda
+Epic	Glowing	137.2	254.8	2.493	5100000000	11.7	29.17	Glowing Barracuda
+Epic	Shadow	170.1	315.9	3.107	250000000000	13.9	43.19	Shadow Barracuda
+Epic	Normal	31	79	1.324	53000	5.5	7.28	Normal Zebra Shark
+Epic	Gold	57.49	146.51	1.688	2600000	7.55	12.75	Gold Zebra Shark
+Epic	Rainbow	83.98	214.02	2.153	130000000	9.65	20.78	Rainbow Zebra Shark
+Epic	Glowing	110.47	281.53	2.745	6600000000	11.8	32.4	Glowing Zebra Shark
+Epic	Shadow	136.96	349.04	3.501	330000000000	14	49.01	Shadow Zebra Shark
+Epic	Normal	78	37	1.138	68000	5.6	6.37	Normal Nurse Shark
+Epic	Gold	141.76	67.24	1.269	3400000	7.7	9.77	Gold Nurse Shark
+Epic	Rainbow	205.51	97.49	1.415	170000000	9.8	13.87	Rainbow Nurse Shark
+Epic	Glowing	269.27	127.73	1.578	8500000000	12	18.94	Glowing Nurse Shark
+Epic	Shadow	333.03	157.97	1.76	430000000000	14.2	24.99	Shadow Nurse Shark
+Epic	Normal	111	6.5	1.02	89000	5.75	5.86	Normal Humphead
+Epic	Gold	199.8	11.7	1.039	4400000	7.85	8.16	Gold Humphead
+Epic	Rainbow	288.6	16.9	1.059	220000000	9.95	10.541	Rainbow Humphead
+Epic	Glowing	377.4	22.1	1.079	11000000000	12.1	13.05	Glowing Humphead
+Epic	Shadow	466.2	27.3	1.099	550000000000	14.3	15.72	Shadow Humphead
+Epic	Normal	29	90	1.378	120000	5.9	8.13	Normal Thresher Shark
+Epic	Gold	51.91	161.09	1.779	5800000	7.95	14.15	Gold Thresher Shark
+Epic	Rainbow	74.82	232.18	2.298	290000000	10.1	23.21	Rainbow Thresher Shark
+Epic	Glowing	97.72	303.28	2.969	14000000000	12.3	36.52	Glowing Thresher Shark
+Epic	Shadow	120.63	374.37	3.835	720000000000	14.5	55.61	Shadow Thresher Shark
+Epic	Normal	35.5	85.5	1.356	150000	6.05	8.2	Normal Swordfish
+Epic	Gold	63.08	151.92	1.722	7500000	8.1	13.95	Gold Swordfish
+Epic	Rainbow	90.66	218.34	2.187	380000000	10.2	22.31	Rainbow Swordfish
+Epic	Glowing	118.24	284.76	2.777	19000000000	12.4	34.44	Glowing Swordfish
+Epic	Shadow	145.81	351.19	3.528	940000000000	14.6	51.51	Shadow Swordfish
+Epic	Normal	113	12	1.04	200000	6.15	6.4	Normal Tuna
+Epic	Gold	197.98	21.02	1.075	9800000	8.25	8.87	Gold Tuna
+Epic	Rainbow	282.95	30.05	1.11	490000000	10.4	11.55	Rainbow Tuna
+Epic	Glowing	367.93	39.07	1.147	24000000000	12.6	14.45	Glowing Tuna
+Epic	Shadow	452.9	48.1	1.185	1200000000000	14.8	17.53	Shadow Tuna
+Legendary	Normal	56.5	73.5	1.298	450000	6.6	8.57	Normal Anglerfish
+Legendary	Gold	103	134	1.614	22000000	8.7	14.04	Gold Anglerfish
+Legendary	Rainbow	149.51	194.49	2.007	1100000000	10.8	21.67	Rainbow Anglerfish
+Legendary	Glowing	196.01	254.99	2.495	56000000000	13	32.44	Glowing Anglerfish
+Legendary	Shadow	242.52	315.48	3.102	2800000000000	15.3	47.46	Shadow Anglerfish
+Legendary	Normal	15	125	1.563	690000	6.85	10.7	Normal Eagle Ray
+Legendary	Gold	26.46	220.54	2.204	35000000	8.95	19.73	Gold Eagle Ray
+Legendary	Rainbow	37.93	316.07	3.109	1700000000	11.1	34.51	Rainbow Eagle Ray
+Legendary	Glowing	49.39	411.61	4.385	87000000000	13.3	58.32	Glowing Eagle Ray
+Legendary	Shadow	60.86	507.14	6.185	4300000000000	15.5	95.87	Shadow Eagle Ray
+Legendary	Normal	66	84	1.348	1100000	7.05	9.51	Normal Cobia
+Legendary	Gold	113.08	143.92	1.673	54000000	9.2	15.39	Gold Cobia
+Legendary	Rainbow	160.16	203.84	2.076	2700000000	11.3	23.45	Rainbow Cobia
+Legendary	Glowing	207.24	263.76	2.575	130000000000	13.5	34.77	Glowing Cobia
+Legendary	Shadow	254.32	323.68	3.195	6700000000000	15.8	50.48	Shadow Cobia
+Legendary	Normal	97	63	1.25	1700000	7.3	9.13	Normal Sawfish
+Legendary	Gold	161.87	105.13	1.455	83000000	9.4	13.68	Gold Sawfish
+Legendary	Rainbow	226.74	147.26	1.693	4200000000	11.6	19.64	Rainbow Sawfish
+Legendary	Glowing	291.61	189.39	1.97	210000000000	13.8	27.19	Glowing Sawfish
+Legendary	Shadow	356.47	231.53	2.293	10000000000000	16	36.69	Shadow Sawfish
+Legendary	Normal	110	60	1.237	2600000	7.55	9.34	Normal Hammerhead Shark
+Legendary	Gold	179.24	97.76	1.417	130000000	9.65	13.67	Gold Hammerhead Shark
+Legendary	Rainbow	248.47	135.53	1.623	6500000000	11.8	19.15	Rainbow Hammerhead Shark
+Legendary	Glowing	317.71	173.29	1.859	320000000000	14	26.03	Glowing Hammerhead Shark
+Legendary	Shadow	386.94	211.06	2.13	16000000000000	16.3	34.72	Shadow Hammerhead Shark
+Legendary	Normal	37	143	1.667	4000000	7.8	13	Normal Mako Shark
+Legendary	Gold	58.99	228.01	2.264	200000000	9.9	22.42	Gold Mako Shark
+Legendary	Rainbow	80.99	313.01	3.075	10000000000	12.1	37.2	Rainbow Mako Shark
+Legendary	Glowing	102.98	398.02	4.176	500000000000	14.3	59.71	Glowing Mako Shark
+Legendary	Shadow	124.98	483.02	5.67	25000000000000	16.5	93.56	Shadow Mako Shark
+Legendary	Normal	86	104	1.449	6200000	8	11.59	Normal Moonfish
+Legendary	Gold	134.43	162.57	1.789	310000000	10.1	18.07	Gold Moonfish
+Legendary	Rainbow	182.86	221.14	2.209	16000000000	12.3	27.17	Rainbow Moonfish
+Legendary	Glowing	231.29	279.71	2.727	780000000000	14.5	39.55	Glowing Moonfish
+Legendary	Shadow	279.73	338.27	3.368	39000000000000	16.8	56.57	Shadow Moonfish
