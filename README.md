@@ -12,9 +12,9 @@ For use I recommend to split the folders up for use of a virtual environment and
 
 Create a virtual environment(Depends on what terminal you are running) and install required libraries with install statement below. Then add screenshots to screenshots folder in the same way as the example screenshots. Take screenshots using windows + shift + s and take a picture of a 4x2 area making sure not to repeat fish. Then run main.py and your data will be in data/data.txt
 
-'''
+```
 pip install numpy pillow opencv-python pytesseract
-'''
+```
 
 ### Code Guide
 
