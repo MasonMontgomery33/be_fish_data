@@ -1,6 +1,34 @@
 import os
 import subprocess
 import sys
+import os
+import shutil
+
+# Folders to clear on startup
+FOLDERS_TO_CLEAR = [
+    "fish_images",
+    "number_images",
+    "processed_images",
+    "square_debug",
+    "square_images"
+]
+
+# Files to clear on startup
+FILES_TO_CLEAR = [
+    "data.txt"
+]
+
+# Clear files
+for file_path in FILES_TO_CLEAR:
+    open(file_path, "w").close()
+
+# Clear folders
+for folder in FOLDERS_TO_CLEAR:
+    if os.path.exists(folder):
+        shutil.rmtree(folder)
+    os.makedirs(folder)
+
+print("All specified files and folders have been cleared.")
 
 SRC_DIR = "src"
 
